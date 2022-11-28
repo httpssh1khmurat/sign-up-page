@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    background-color: #000046;
+}
+
+sup {
+    color: red;
+}
+
+h3 {
+    font-family: 'Outfit', sans-serif;
+}
+.main {
+    padding: 50px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.name {
+    display: flex;
+
+
+}
+
+input {
+    
+    border-radius: 5px;
+    border: 1px solid #3d3a35;
+    font-family: 'Outfit', sans-serif;
+    outline: none;
+}
+
+button {
+    height: 50px; 
+    width: 378px;
+    background-color: #3d3a35;
+    border-radius: 3px;
+    border: 1px solid #3d3a35;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+}
+
